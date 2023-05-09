@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (SVM)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="SSD_Mobilnet_Tensorflow_obj_det" />
+    <orderEntry type="module" module-name="keras_fashionDataset_learn" />
+    <orderEntry type="module" module-name="Machine Learning Tutorial" />
+    <orderEntry type="module" module-name="Machine learning" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

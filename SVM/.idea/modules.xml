@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/Machine Learning Tutorial.iml" filepath="$PROJECT_DIR$/../.idea/Machine Learning Tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Machine learning/.idea/Machine learning.iml" filepath="$PROJECT_DIR$/../../Machine learning/.idea/Machine learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SSD_Mobilnet_Tensorflow_obj_det/.idea/SSD_Mobilnet_Tensorflow_obj_det.iml" filepath="$PROJECT_DIR$/../SSD_Mobilnet_Tensorflow_obj_det/.idea/SSD_Mobilnet_Tensorflow_obj_det.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SVM.iml" filepath="$PROJECT_DIR$/.idea/SVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keras_fashionDataset_learn/.idea/keras_fashionDataset_learn.iml" filepath="$PROJECT_DIR$/../keras_fashionDataset_learn/.idea/keras_fashionDataset_learn.iml" />
+    </modules>
+  </component>
+</project>
